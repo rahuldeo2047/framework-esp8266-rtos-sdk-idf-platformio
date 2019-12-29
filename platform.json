@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/WallaceWilliam/framework-esp8266-rtos-sdk-idf-platformio.git"
+    "url": "https://github.com/rahuldeo2047/framework-esp8266-rtos-sdk-idf-platformio.git"
   },
   "version": "1.0.0",
   "packageRepositories": [
-    "https://github.com/WallaceWilliam/curl_for_win/raw/master/manifest.json",
-    "https://github.com/WallaceWilliam/xtensa-lx106-elf/raw/master/manifest.json"
+    "https://github.com/rahuldeo2047/curl_for_win/raw/master/manifest.json",
+    "https://github.com/rahuldeo2047/xtensa-lx106-elf/raw/master/manifest.json"
   ],
   "frameworks": {
     "esp8266-rtos-sdk": {
