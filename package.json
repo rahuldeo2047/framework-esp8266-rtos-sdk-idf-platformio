@@ -1,0 +1,10 @@
+ {
+  "name":"framework-esp8266-rtos-sdk-idf-platformio",
+  "description":"Custom Embedded Programming Platform",
+  "url":"https://github.com/rahuldeo2047/framework-esp8266-rtos-sdk-idf-platformio.git",
+  "version":"1.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahuldeo2047/framework-esp8266-rtos-sdk-idf-platformio.git"
+  }
+}
